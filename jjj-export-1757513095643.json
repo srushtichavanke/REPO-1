@@ -1,4 +1,9 @@
 {
+  "id": "app_...",
+  "name": "Your App Name",
+  "pages": [ ... ]
+}
+{
   "app": [
     {
       "definition": {
