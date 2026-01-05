@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "test app 1",
+  "gitAppId": "3c3a36f4-ba6f-464f-bee0-8fe2f597131d",
+  "branchName": "testbranch",
+  "gitVersionName": "testbranch",
+  "gitVersionId": "30b569d9-1ed9-491c-8033-305e24b35e59",
+  "tooljetVersion": "3.20.38-ee-lts",
+  "createdAt": "2026-01-05T13:13:41.463Z",
+  "updatedAt": "2026-01-05T13:13:41.463Z"
+}
