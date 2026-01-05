@@ -1,0 +1,16 @@
+{
+  "id": "3c3a36f4-ba6f-464f-bee0-8fe2f597131d",
+  "name": "test app 1",
+  "type": "front-end",
+  "slug": "3c3a36f4-ba6f-464f-bee0-8fe2f597131d",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-01-05T13:12:21.915Z",
+  "organizationId": "7176b6f1-9835-453d-b770-03ff721db969",
+  "userId": "496f55b3-4ab5-46fd-ba55-0186044bfae7",
+  "icon": "grid"
+}
